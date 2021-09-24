@@ -1,0 +1,26 @@
+{
+  "name": "lesson-elk-node",
+  "version": "1.0.0",
+  "description": "Lesson is about using elastic stack to store, process and monitor logs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Artefall/lesson-elk-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Artefall/lesson-elk-node/issues"
+  },
+  "homepage": "https://github.com/Artefall/lesson-elk-node#readme",
+  "dependencies": {
+    "koa": "^2.13.1",
+    "koa-helmet": "^6.1.0",
+    "koa-router": "^10.1.1",
+    "yaml": "^1.10.2"
+  }
+}
